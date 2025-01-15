@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is zandro
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is zandroJ
+====================================================================================================================================
 
-
-
+Web Developer/Video Editor
 --------------------------
 
-Web Developer/Video Editor based in Abu Dhabi, UAE. Passionate about building cool things with code and creating engaging content.
+Creative Computing Graduate & Web Developer/Video Editor based in Abu Dhabi, UAE. Passionate about building cool things with code and creating engaging content.
 
 ### Skills
 
