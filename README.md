@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer/Video Editor
 --------------------------
 
-Creative Computing Graduate & Web Developer/Video Editor based in Abu Dhabi, UAE. Passionate about building cool things with code and creating engaging content.
+Web Developer/Video Editor based in Abu Dhabi, UAE. Passionate about building cool things with code and creating engaging content.
 
 ### Skills
 
