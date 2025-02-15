@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  He might not have a bright brain but he's got his two brain cells with him. In his spare time, he calls it his 'mental aid station' — enjoys reading and writing, drawing sketches, playing games, and jogging.
+  Can't make a decision? Flip a coin!
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
