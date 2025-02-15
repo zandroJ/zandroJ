@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Zandro</h1>
+<h1 align="center">Yo 👋, Zandroと申します。</h1>
 
 <p align="center">
  I am Recent graduate specializing in Web Development. Currently building personal projects to enhance skills.
@@ -17,10 +17,10 @@
 </p>
 
 ### 🌱 I'm currently learning:
-- React, Vue.js (other frontend frameworks)
-- Cybersecurity
-- Web Development
-- 
+- React, Vue.js (expanding my tech stack)
+- Cybersecurity (何なんとな)
+- Web Development (yes)
+- and some 日本語 on the side.
 ### Connect with me:
 <p align="left">
   <a href="https://discord.gg/strawb5783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="strawb5783" height="30" width="40" /></a>
