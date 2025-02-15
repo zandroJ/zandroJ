@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Zandro</h1>
 
@@ -23,12 +23,6 @@
 - 
 ### Connect with me:
 <p align="left">
-  <a href="https://twitter.com/jubibani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jubibani" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/christopher-jiovanni-orpilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher jiovanni orpilla" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/user:19211304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19211304" height="30" width="40" /></a>
-  <a href="https://fb.com/cjinnavoijallipro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cj innavoij allipro" height="30" width="40" /></a>
-  <a href="https://instagram.com/ichigokyuuun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ichigokyuuun" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/jubibani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jubibani" height="30" width="40" /></a>
   <a href="https://discord.gg/strawb5783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="strawb5783" height="30" width="40" /></a>
 </p>
 
