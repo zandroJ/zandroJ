@@ -3,7 +3,7 @@
 <h1 align="center">Yo, Zandroと申します👋</h1>
 
 <p align="center">
-  Recent graduate specializing in Web Development. Currently building personal projects to enhance skills.
+  I specialize in WebDev. Currently building personal projects to enhance skills.
 </p>
 
 <p align="center">
