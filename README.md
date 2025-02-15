@@ -17,9 +17,10 @@
 - Cybersecurity (何なんとな)
 - Web Development (yes)
 - and some 日本語 on the side.
-### Connect with me:
+### Socials (no socials):
 <p align="left">
-  <a href="https://discord.gg/strawb5783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="strawb5783" height="30" width="40" /></a>
+  <a href="https://discord.gg/myopimaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="strawb5783" height="30" width="40" /></a>
+  <a href="https://github.com/zandroJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="strawb5783" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
