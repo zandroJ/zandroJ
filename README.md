@@ -18,6 +18,7 @@
 - **Frontend Frameworks:** React & Vue.js
 - **Cybersecurity Fundamentals** (なんとなく)
 - **Web Development Best Practices**
+- - **Some 日本語**
 
 ---
 
