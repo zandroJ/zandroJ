@@ -15,9 +15,8 @@
 
 ## 🧠 Currently Learning
 
-- **Frontend Frameworks:** React & Vue.js
+- **Frontend Frameworks:** React & Bootstrap
 - **Cybersecurity Fundamentals** (なんとなく)
-- **Web Development Best Practices**
 - **Some 日本語**
 
 ---
