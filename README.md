@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Zandro 👋</h1>
 
 <p align="center">
-  Web Developer specializing in front-end development.<br>
+  Web Developer specializing in front-end.<br>
   Currently building personal projects to enhance my skills
 </p>
 
