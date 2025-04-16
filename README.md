@@ -19,11 +19,6 @@
 - **Cybersecurity Fundamentals** (なんとなく)
 - **Some 日本語**
 
----
-
-
-
----
 
 ## 🛠️ Tech Stack
 
